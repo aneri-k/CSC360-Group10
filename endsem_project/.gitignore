@@ -1,0 +1,38 @@
+# ============================================================
+# .gitignore — Bird Counting Project
+# ============================================================
+
+# --- Docs directory (excluded from git tracking) ---
+docs/
+
+# --- Maven build output ---
+target/
+*.class
+
+# --- IDE metadata ---
+.idea/
+*.iml
+.vscode/
+*.eclipse
+.classpath
+.project
+.settings/
+*.suo
+*.user
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Generated output images ---
+enhanced.png
+binary.png
+detection_output.png
+sample_output_*.png
+summary.txt
+
+# --- Logs ---
+*.log
+
+# --- Wrapper JAR (download on first build) ---
+.mvn/wrapper/maven-wrapper.jar
