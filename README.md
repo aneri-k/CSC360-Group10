@@ -8,7 +8,7 @@
 [![Tests](https://img.shields.io/badge/JUnit%205-32%20Passed-brightgreen.svg?style=flat-square)](https://junit.org/junit5/)
 
 <p align="center">
-  <img src="Neon Bird Vision Analysis Collage.png" alt="Project Banner Image" width="850">
+  <img src="app_screenshot.jpg" alt="Application Screenshot - Bird Detection and Counting" width="850">
 </p>
 
 ## 📖 Overview
