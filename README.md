@@ -1,4 +1,4 @@
-# 🐦 Counting Birds in Park Photos
+# 🐦 Counting Birds in Garden Photos
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-Digital_Image_Processing-blue?style=flat-square)
